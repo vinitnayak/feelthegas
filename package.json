@@ -1,0 +1,26 @@
+{
+  "name": "feelthegas",
+  "version": "1.0.0",
+  "description": "Feel The Gas Project",
+  "main": "feelthegas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitnayak/feelthegas.git"
+  },
+  "author": "WinITN NaEK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinitnayak/feelthegas/issues"
+  },
+  "homepage": "https://github.com/vinitnayak/feelthegas#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0"
+  }
+}
