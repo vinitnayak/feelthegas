@@ -1,0 +1,26 @@
+{
+  "name": "feelthegas",
+  "description": "Feel The Gas Project",
+  "main": "feelthegas.js",
+  "authors": [
+    "WinITN NaEK"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vinitnayak/feelthegas",
+  "moduleType": [],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/libs",
+    "test",
+    "tests"
+  ]
+}
