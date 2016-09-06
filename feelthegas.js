@@ -8,7 +8,7 @@ app.use(express.static(__dirname + '/public'));
 
 // set up our one route to the index.html file
 app.get('*', function(req, res) {
-res.sendFile(path.join(__dirname + '/public/app/index.html'));
+res.sendFile(path.join(__dirname + '/public/app/views/index.html'));
 });
 
 // start the server on port 8080 (http://localhost:8080)
